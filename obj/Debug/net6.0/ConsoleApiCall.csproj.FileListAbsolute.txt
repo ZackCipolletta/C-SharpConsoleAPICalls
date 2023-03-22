@@ -1,0 +1,17 @@
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\ConsoleApiCall.exe
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\ConsoleApiCall.deps.json
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\ConsoleApiCall.runtimeconfig.json
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\ConsoleApiCall.dll
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\ConsoleApiCall.pdb
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\RestSharp.dll
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.csproj.AssemblyReference.cache
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.AssemblyInfoInputs.cache
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.AssemblyInfo.cs
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.csproj.CoreCompileInputs.cache
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.csproj.CopyComplete
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.dll
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\refint\ConsoleApiCall.dll
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.pdb
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.genruntimeconfig.cache
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ref\ConsoleApiCall.dll
