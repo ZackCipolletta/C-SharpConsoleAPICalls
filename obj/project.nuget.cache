@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiCxNszkvHKgbEOeqsDMCNm1da2wuJiBKPdl2L98edrjfMwGMbNVahm74rrZ+iUcIEC/nnSv00FTMF0GLXRxKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZackC\\OneDrive\\Desktop\\Epicodus-projects\\C-Sharp_API_Calls\\ConsoleApiCall\\ConsoleApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZackC\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\ZackC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
