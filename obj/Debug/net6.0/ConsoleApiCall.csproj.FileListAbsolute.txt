@@ -15,3 +15,4 @@ C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCa
 C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.pdb
 C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ConsoleApiCall.genruntimeconfig.cache
 C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\obj\Debug\net6.0\ref\ConsoleApiCall.dll
+C:\Users\ZackC\OneDrive\Desktop\Epicodus-projects\C-Sharp_API_Calls\ConsoleApiCall\bin\Debug\net6.0\Newtonsoft.Json.dll
